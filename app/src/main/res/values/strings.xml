@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bulb Switcher</string>
+    <string name="title_activity_main_start">MainStart</string>
+</resources>
