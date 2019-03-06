@@ -1,6 +1,6 @@
 # Bulb Switcher Android app
 
-<img src="docs/doc_a.jpg" width="280"/> <img src="docs/doc_b.jpg" width="280"/> <img src="docs_resources/share_device.png" width="280" />
+<img src="docs/doc_a.jpg" width="280"/> <img src="docs/doc_b.jpg" width="280"/>
  
 ## Join development!
 
